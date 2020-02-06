@@ -1,0 +1,47 @@
+.pink {
+	background-color: #e83e8c;
+}
+.titulos {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	color: #707070;
+	font-size: 40px;
+
+}
+.holi{
+	
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h5{
+font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+.fab{
+	color: white;
+}
+.altura{
+	padding:30px 10px 10px 10px; 
+}
+.tam{
+	width: 80px;
+}
+.mover{
+	padding: 15px 25px 30px 180px
+
+}
+.tamaño{
+	font-size: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+.final{
+	top: 1407px;
+left: 627px;
+width: 53px;
+height: 100px;
+
+}
